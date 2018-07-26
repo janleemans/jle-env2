@@ -14,3 +14,4 @@ spec:
         backend:
           serviceName: rest-jscreditscore-svcjle2
           servicePort: 8222
+
